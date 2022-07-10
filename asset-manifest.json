@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kr4mountain/static/css/main.073c9b0a.css",
-    "main.js": "/kr4mountain/static/js/main.fb43695c.js",
+    "main.js": "/kr4mountain/static/js/main.dcd5d9dc.js",
     "static/js/787.0306db73.chunk.js": "/kr4mountain/static/js/787.0306db73.chunk.js",
     "index.html": "/kr4mountain/index.html",
     "main.073c9b0a.css.map": "/kr4mountain/static/css/main.073c9b0a.css.map",
-    "main.fb43695c.js.map": "/kr4mountain/static/js/main.fb43695c.js.map",
+    "main.dcd5d9dc.js.map": "/kr4mountain/static/js/main.dcd5d9dc.js.map",
     "787.0306db73.chunk.js.map": "/kr4mountain/static/js/787.0306db73.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.fb43695c.js"
+    "static/js/main.dcd5d9dc.js"
   ]
 }
